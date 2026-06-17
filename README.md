@@ -1,6 +1,6 @@
 # Hi, I'm Sarthak Birari 👋
 
-🎓 Integrated M.tech @ VIT Bhopal
+🎓 Integrated M.tech Artificial Intelligence @ VIT Bhopal
 
 🤖 Exploring Artificial Intelligence & Machine Learning
 
